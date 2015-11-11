@@ -1,6 +1,6 @@
 # react-countdown-to-future-date
 
-[![npm version](https://badge.fury.io/js/react-mouse-pointer-tools.svg)](https://badge.fury.io/js/react-mouse-pointer-tools)
+[![npm version](https://badge.fury.io/js/react-countdown-to-future-date.svg)](https://badge.fury.io/js/react-countdown-to-future-date)
 
 react-countdown-to-future-date is a React component that counts down to a specific future date.
 
@@ -22,4 +22,5 @@ ReactDOM.render(
 
 Please note: the date has to be written in the format: month, date, year
 
-Link to the project on Github: https://github.com/naazy/react-countdown-to-future-date 
+[Link to the project on Github](https://github.com/naazy/react-countdown-to-future-date)  
+[Link to the project on npm](https://www.npmjs.com/package/react-countdown-to-future-date)

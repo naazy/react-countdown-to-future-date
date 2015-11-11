@@ -1,6 +1,6 @@
 {
   "name": "react-countdown-to-future-date",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "React component that counts down to a specific future date",
   "main": "react-countdown-to-future-date.js",
   "author": "naaz marziyeh.naaz.ahmed@gmail.com (http://github.com/naazy)",

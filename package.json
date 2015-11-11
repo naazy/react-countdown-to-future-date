@@ -8,6 +8,11 @@
     "build": "jsx react-countdown-to-future-date.jsx > react-countdown-to-future-date.js",
     "prepublish": "npm run build"
   },
+   "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/naazy/react-countdown-to-future-date.git"

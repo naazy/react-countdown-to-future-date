@@ -6,6 +6,8 @@ react-countdown-to-future-date is a React component that counts down to a specif
 
 ![gif](https://cloud.githubusercontent.com/assets/11833296/11092334/8549e41c-887a-11e5-9d71-0295ee1807c3.gif)
 
+## Example of how to use - add this code to your main.js file
+
 ``` js
 var React       = require('react');
 var ReactDOM    = require('react-dom');

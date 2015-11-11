@@ -1,0 +1,29 @@
+{
+  "name": "react-countdown-to-future-date",
+  "version": "1.0.0",
+  "description": "React component that counts down to a specific future date",
+  "main": "react-countdown-to-future-date.js",
+  "author": "naaz marziyeh.naaz.ahmed@gmail.com (http://github.com/naazy)",
+  "scripts": {
+    "build": "jsx react-countdown-to-future-date.jsx > react-countdown-to-future-date.js",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naazy/react-countdown-to-future-date.git"
+  },
+  "keywords": [
+  "react",
+  "countdown",
+  "to",
+  "future",
+  "date",
+  "react-component"
+],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naazy/react-countdown-to-future-date/issues"
+  },
+  "homepage": "https://github.com/naazy/react-countdown-to-future-date#readme"
+}

@@ -37,6 +37,10 @@ displayNone: function(e){
   },
   componentDidMount: function(){
     this.decr = setInterval(this.update,1000)
+  },
+    
+  componentWillUnmount: function(){
+    clearInterval(this.decr);
   }
 })
 module.exports = App;
